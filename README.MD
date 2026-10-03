@@ -1,6 +1,7 @@
 # Conrado Rosa
 
-## Stack
+</details>
+<summary>Stack</summary>
 
 ![C](https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-555?style=flat-square&logo=openjdk&logoColor=white)
@@ -12,6 +13,8 @@ My primary language is C, which I learned from the best programming university t
 My focus is on backend and architecture.
 
 My particular interests are C, Java, Kotlin, and WebAssembly.
+
+</details>
 
 <details>
 <summary>History</summary>
