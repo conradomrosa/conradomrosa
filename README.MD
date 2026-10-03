@@ -2,6 +2,12 @@
 
 ## Stack
 
+![C](https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-555?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-555?style=flat-square&logo=kotlin&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-555?style=flat-square&logo=webassembly&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-555?style=flat-square&logo=spring&logoColor=white)
+
 My primary language is C, which I learned from the best programming university that ever existed: K&R and software projects.
 
 My focus is on backend and architecture.
@@ -20,10 +26,12 @@ Since then, I have accumulated experience with N1 and N2 technical support, dire
 </details>
 
 <details>
-<summary>Details</summary>
+<summary>More</summary>
 
 My English proficiency is certified at C2 level.
 
 I'm currently studying Java and Spring through JetBrains Academy.
+
+I believe that a sincere desire for knowledge, reliability, and responsibility are among the greatest qualities anyone can bring to a team.
 
 </details>
