@@ -4,9 +4,8 @@
 
 ![C](https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-555?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-555?style=flat-square&logo=kotlin&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-555?style=flat-square&logo=webassembly&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-555?style=flat-square&logo=spring&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-555?style=flat-square&logo=linux&logoColor=white)
 
 My primary language is C, which I learned from the best programming university that ever existed: K&R and software projects.
 
