@@ -1,20 +1,29 @@
 # Conrado Rosa
 
-Backend-focused IT professional working with **Java, systems integration and infrastructure**.
-
 ## Stack
 
-![Java](https://img.shields.io/badge/Java-555?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-555?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-555?style=flat-square&logo=apachekafka&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-555?style=flat-square&logo=apachemaven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-555?style=flat-square&logo=junit5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-555?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-555?style=flat-square&logo=linux&logoColor=white)
+My primary language is C, which I learned from the best programming university that ever existed: K&R and software projects.
 
-**Backend · APIs · Databases · Messaging · Systems Integration**
+My focus is on backend and architecture.
 
----
+My particular interests are C, Java, Kotlin, and WebAssembly.
 
-<p align="center"><sub>S.D.G.</sub></p>
+<details>
+<summary>History</summary>
+
+My first interest was cybersecurity, since I was a child. My favorite activity back then was hacking Wi-Fi through WPS, DDoSing routers, and tunneling networks. The first language I studied was Python.
+
+My first IT job was at 18, working in the technology department of the Rio Grande do Sul Secretariat of Public Security, a state-level public security department in Brazil.
+
+Since then, I have accumulated experience with N1 and N2 technical support, direct client communication, major Linux distributions, VPS, hosting, Docker, n8n, APIs, and a little JavaScript. I have worked across multiple teams and with multimillion-dollar companies.
+
+</details>
+
+<details>
+<summary>Details</summary>
+
+My English proficiency is certified at C2 level.
+
+I'm currently studying Java and Spring through JetBrains Academy.
+
+</details>
