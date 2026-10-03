@@ -1,6 +1,6 @@
 # Conrado Rosa
 
-</details>
+<details>
 <summary>Stack</summary>
 
 ![C](https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=white)
